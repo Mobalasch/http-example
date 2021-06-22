@@ -12,7 +12,7 @@
         </div>
       </div>
     </div>
-    
+
     <div class="product-form">
       {{ name }} - {{ description }} - {{ price }}
       <form @submit.prevent="createProduct">
@@ -82,8 +82,11 @@ export default {
           name: this.name,
           description: this.description,
           price: this.price,
+        })
+        .then((response) => {
+          this.products.delete(id);
         });
-    }
+    },
   },
 };
 </script>
