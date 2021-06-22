@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apfel",
+      "description": "very healthy",
+      "price": 2.59
+    },
+    {
+      "id": 2,
+      "name": "Banane",
+      "description": "tastes yummy",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name": "Käse",
+      "description": "Emmentaler",
+      "price": 3.6
+    },
+    {
+      "name": "Birne",
+      "description": "Helene",
+      "price": "5",
+      "id": 4
+    },
+    {
+      "name": "Jul",
+      "description": "err",
+      "price": "4",
+      "id": 5
+    },
+    {
+      "name": "Tomate",
+      "description": "Rot",
+      "price": "4",
+      "id": 6
+    }
+  ]
+}
