@@ -1,18 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Apfel",
-      "description": "very healthy",
-      "price": 2.59
-    },
-    {
-      "id": 2,
-      "name": "Banane",
-      "description": "tastes yummy",
-      "price": 2
-    },
-    {
       "id": 3,
       "name": "Käse",
       "description": "Emmentaler",
@@ -35,6 +23,38 @@
       "description": "Rot",
       "price": "4",
       "id": 6
+    },
+    {
+      "name": "Kirsche",
+      "description": "rot",
+      "price": "2.99",
+      "id": 7
+    },
+    {
+      "__file": "src/views/Product.vue",
+      "id": 8
+    },
+    {
+      "__file": "src/views/Product.vue",
+      "id": 9
+    },
+    {
+      "__file": "src/views/Product.vue",
+      "id": 10
+    },
+    {
+      "__file": "src/views/Product.vue",
+      "id": 11
+    },
+    {
+      "__file": "src/views/Product.vue",
+      "id": 12
+    },
+    {
+      "name": "Erdbeeren",
+      "description": "süß",
+      "price": "7",
+      "id": 13
     }
   ]
 }
